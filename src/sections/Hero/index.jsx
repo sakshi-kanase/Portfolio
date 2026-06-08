@@ -17,7 +17,7 @@ export default function Hero() {
         relative
         min-h-screen
         overflow-hidden
-        pt-40
+        pt-24
         md:pt-0
       "
     >

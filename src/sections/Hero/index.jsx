@@ -17,6 +17,8 @@ export default function Hero() {
         relative
         min-h-screen
         overflow-hidden
+        pt-40
+        md:pt-0
       "
     >
       {/* Background Glow */}
@@ -86,7 +88,7 @@ export default function Hero() {
                   mb-6
                 "
               >
-                 <span className="w-2 h-3 bg-green-400 rounded-full animate-pulse" />
+                 <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
                     Available For Full Stack Developer Roles
               </span>
             </FadeIn>
